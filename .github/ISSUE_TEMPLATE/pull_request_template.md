@@ -1,17 +1,26 @@
 ### 🚀 Summary
-
-<!-- A brief description of the issue. -->
+<!-- PR의 간단한 설명을 작성해주세요 -->
 
 ---
 
 ### ✨ Description
-
-<!-- write down the work details and show the execution results. -->
+<!-- 작업 상세 내용, 구현 방법, 실행 결과(스크린샷/로그 등)를 작성해주세요 -->
 
 ---
 
 ### 🎲 Issue Number
-
-<!-- Please enter {Issue Number} below to automatically close the connected issue. -->
-
+<!-- 연결된 이슈 번호를 입력해주세요 (자동으로 닫히도록 설정) -->
 close #{Issue Number}
+
+---
+
+### ✅ Checklist
+- [ ] 코드가 정상적으로 동작하는지 확인했습니다.  
+- [ ] 관련 테스트를 추가/수정했습니다.  
+- [ ] 문서화가 필요한 경우 반영했습니다.  
+- [ ] 리뷰어가 이해하기 쉽게 PR 설명을 작성했습니다.  
+
+---
+
+### 📎 Reference (선택)
+<!-- 참고한 문서, 링크, 레퍼런스 등을 추가해주세요 -->
